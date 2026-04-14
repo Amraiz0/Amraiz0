@@ -24,19 +24,22 @@
 </p>
 
 ---
-
 ## 📊 GitHub Dashboard
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amraiz0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amraiz0&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔥 Activity Graph (Animated)
+## 🔥 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amraiz0&theme=tokyo-night&hide_border=true" />
 </p>
+
+
 
 ---
 
